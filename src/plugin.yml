@@ -1,4 +1,4 @@
 name: Bubble
 author: Marshal
 version: 1.0
-main: ru.Marshal.Bubble.main
+main: ru.Marshal.Bubble.Main
